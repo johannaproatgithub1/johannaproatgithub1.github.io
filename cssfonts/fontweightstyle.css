@@ -1,0 +1,36 @@
+#ahs 
+{
+    font-family: Arial, Helvetica, "sans-serif";
+}
+#ccm 
+{
+    font-family: "Courier New", Courier, monospace;
+}
+#tts 
+{
+    font-family: "Times New Roman", Times, serif;
+}
+.normal 
+{
+    font-weight: normal;
+}
+.lighter
+{
+    font-weight: lighter;
+}
+.bold 
+{
+    font-weight: bold;
+}
+.bolder 
+{
+    font-weight: bolder;
+}
+
+p 
+{
+    width: 300px;
+    height: 150px;
+    background-image: linear-gradient(rgba(211, 230, 215, 0.808), rgba(96, 235, 16, 0.822));
+    box-shadow: 3px 3px 2px 1px rgb(1, 1, 15);
+}
