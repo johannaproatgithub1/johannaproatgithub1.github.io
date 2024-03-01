@@ -16,3 +16,8 @@
     background-image: linear-gradient(rgba(211, 230, 215, 0.808), rgba(96, 235, 16, 0.822));
     box-shadow: 12px 12px 2px 1px rgb(1, 1, 15);
 }
+p 
+{
+    width: 200px;
+    height: 60px;
+}
