@@ -1,0 +1,19 @@
+#first 
+{
+    margin: 40px;
+}
+#second 
+{
+    margin: 20px;
+    padding: 20px;
+}
+#third 
+{
+    margin: 30px;
+    padding: 30px;
+    border: 7px solid #22AABB;
+}
+p 
+{
+    background-color: greenyellow;
+}
