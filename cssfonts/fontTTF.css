@@ -1,5 +1,17 @@
 @font-face 
 {
-    font-family:myRoboto;
-     src: url(Roboto-Regular.ttf);
+    font-family:myRoboto,sans-serif;
+     src: url("Roboto-Regular.ttf");
+}
+@font-face 
+{
+    font-family: myRoboto,sans-serif;
+    src: url("Mickeys Merry Christmas.ttf");
+}
+p
+{
+    width: 300px;
+    height: 150px;
+    background-image: linear-gradient(rgba(194, 204, 182, 0.808), rgba(15, 231, 51, 0.822));
+    box-shadow: 3px 3px 2px 1px rgb(1, 1, 15);
 }
