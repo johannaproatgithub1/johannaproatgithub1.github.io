@@ -1,18 +1,20 @@
-#first
-{
 @font-face 
 {
-    font-family:myRoboto, sans-serif;
+    font-family:myRoboto;
      src: url("Roboto-Regular.ttf");
 }
-}
-#second
+.first 
 {
+    font-family: myRobato, sans-serif;
+}
 @font-face 
 {
-    font-family:myMickey, sans-serif;
+    font-family:myMickey;
     src: url("Mickeys Merry Christmas.ttf");
 }
+.second
+{
+    font-family: myMickey, sans-serif;
 }
 p
 {
