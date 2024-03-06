@@ -4,7 +4,7 @@
     src: url(Roboto-Regular.ttf);
 
 }
-.first
+#first
 {
     font-family:myRoboto,sans-serif;
 }
@@ -13,7 +13,7 @@
     font-family:myMickey;
     src: url(MickeysMerryChristmas.ttf);
 }
-.second
+#second
 {
     font-family:myMickey,sans-serif;
 }
