@@ -1,22 +1,22 @@
 .small
 {
     font-size: 0.5em;
-    font-weight: small;
+    font-weight: normal;
 }
 .normal 
 {
     font-size: 1em;
-    font-weight: normal;
+    font-weight: lighter;
 }
 .large 
 {
     font-size: 1.5em;
-    font-weight: large;
+    font-weight: bold;
 }
 .larger 
 {
     font-size: 2em;
-    font-weight: larger;
+    font-weight: bolder;
 }
 body
 {
