@@ -1,21 +1,21 @@
 @font-face 
 {
-    font-family:myRoboto;
+    font-family:"myRoboto";
     src: url(Roboto-Regular.ttf);
 
 }
 #first
 {
-    font-family:myRoboto,sans-serif;
+    font-family:"myRoboto",sans-serif;
 }
 @font-face 
 {
-    font-family:myMickey;
+    font-family:"myMickey";
     src: url(MickeysMerryChristmas.ttf);
 }
 #second
 {
-    font-family:myMickey,sans-serif;
+    font-family:"myMickey",sans-serif;
 }
 p
 {
