@@ -1,6 +1,6 @@
 @font-face 
 {
-    font-family:myRoboto;
+    font-family: myRoboto;
     src: url(Roboto-Regular.ttf);
 }
 .first
@@ -9,7 +9,7 @@
 }
 @font-face 
 {
-    font-family:myMickey;
+    font-family: myMickey;
     src: url(MickeysMerryChristmas.ttf);
 }
 .second
