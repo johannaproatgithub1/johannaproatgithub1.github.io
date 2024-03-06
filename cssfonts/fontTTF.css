@@ -2,7 +2,7 @@
 {
 @font-face 
 {
-    font-family:"myRoboto", sans-serif;
+    font-family:myRoboto, sans-serif;
      src: url("Roboto-Regular.ttf");
 }
 }
@@ -10,7 +10,7 @@
 {
 @font-face 
 {
-    font-family:"Mickey's Merry Christmas", sans-serif;
+    font-family:myMickey, sans-serif;
     src: url("Mickeys Merry Christmas.ttf");
 }
 }
