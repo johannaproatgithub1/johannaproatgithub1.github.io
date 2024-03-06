@@ -18,4 +18,5 @@ body
 {
     font-family: "Courier New", Courier, monospace;
     box-shadow: 3px 3px 2px 1px rgb(1, 1, 15);
+    background-image: linear-gradient(rgba(211, 230, 226, 0.808), rgba(16, 235, 224, 0.822));
 }
