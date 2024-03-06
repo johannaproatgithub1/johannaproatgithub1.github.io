@@ -1,7 +1,7 @@
 @font-face 
 {
     font-family:"myRoboto";
-    src: url(Roboto-Regular.ttf);
+    src: url("Roboto-Regular.ttf");
 
 }
 .first
@@ -11,7 +11,7 @@
 @font-face 
 {
     font-family:"myMickey";
-    src: url(MickeysMerryChristmas.ttf);
+    src: url("MickeysMerryChristmas.ttf");
 }
 .second
 {
