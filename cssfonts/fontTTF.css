@@ -1,11 +1,12 @@
 @font-face 
 {
-    font-family: myRoboto;
+    font-family:myRoboto;
     src: url(Roboto-Regular.ttf);
+
 }
 .first
 {
-    font-family: myRoboto, sans-serif;
+    font-family:myRoboto,sans-serif;
 }
 @font-face 
 {
