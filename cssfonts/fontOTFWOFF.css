@@ -1,7 +1,7 @@
 @font-face
 {
     font-family:myRistretto;
-    src: url(Ristretto.otf);
+    src: url(ristretto\ \(1\).woff);
 }
 .first
 {
@@ -14,7 +14,7 @@
 @font-face
 {
     font-family:mymayestica;
-    src: url(Mayestica.otf);
+    src: url(Mayestica\ \(1\).otf);
 }
 .second
 {
