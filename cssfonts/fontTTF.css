@@ -10,12 +10,12 @@
 }
 @font-face
 {
-    font-family:myMickey;
+    font-family:"myMickey";
     src: url(MickeysMerryChristmas.ttf);
 }
 .second
 {
-    font-family:myMickey,sans-serif;
+    font-family:"myMickey",sans-serif;
 }
 p
 {
