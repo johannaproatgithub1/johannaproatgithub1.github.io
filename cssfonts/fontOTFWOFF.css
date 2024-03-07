@@ -1,0 +1,19 @@
+@font-face
+{
+    font-family:myRistretto;
+    src: url(Ristretto.otf);
+}
+.first
+{
+    font-family:myRistretto,sans-serif;
+}
+@font-face
+{
+    font-family:mymayestica;
+    src: url(Mayestica.otf);
+}
+.second
+{
+    font-family:mymayestica,sans-serif;
+}
+    
