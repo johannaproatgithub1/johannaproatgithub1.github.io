@@ -6,7 +6,7 @@
 }
 .first
 {
-    font-family:myRoboto,sans-serif;
+    font-family:myRoboto;
 }
 @font-face
 {
@@ -15,7 +15,7 @@
 }
 .second
 {
-    font-family:myMickey,sans-serif;
+    font-family:myMickey;
 }
 p
 {
