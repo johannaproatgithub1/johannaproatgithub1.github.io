@@ -6,7 +6,7 @@
 }
 .first
 {
-    font-family:myRoboto;
+    font-family:myRoboto,sans-serif;
     width: 300px;
     height: 150px;
     background-image: linear-gradient(rgba(194, 204, 182, 0.808), rgba(15, 231, 51, 0.822));
@@ -14,7 +14,7 @@
 }
 @font-face
 {
-    font-family:myMickey;
+    font-family:myMickey,sans-serif;
     src:url(MickeysMerryChristmas.ttf);
 }
 .second
