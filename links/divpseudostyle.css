@@ -1,6 +1,7 @@
 div
 {
     border: 2px solid white;
+    font-family: "Courier new", Courier, monospace;
     border-radius: 30px;
     color: white;
     text-align: center;
