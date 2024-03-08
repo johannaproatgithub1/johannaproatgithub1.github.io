@@ -8,12 +8,13 @@ div
     outline: none;
     text-decoration: none;
 }
-div:hoover
+div:hover
 {
     color: blue;
 }
 div:focus
 {
+    border-bottom: 1px solid darkblue;
     background-color: blue;
     color: white;
 }
