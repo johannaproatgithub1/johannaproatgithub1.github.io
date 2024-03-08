@@ -1,0 +1,19 @@
+p
+{
+    border-radius: 30px;
+    border: 2px solid red;
+}
+div
+{
+    outline: none;
+    text-decoration: none;
+}
+div:hoover
+{
+    color: blue;
+}
+div:focus
+{
+    background-color: blue;
+    color: white;
+}
