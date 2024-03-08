@@ -2,10 +2,6 @@ a
 {
     outline: none;
     text-decoration: none;
-    font-family: "Courier New", Courier, monospace;
-    font-size: 1em;
-    float:left;
-    margin: 10px;
 }
 a:link
 {
@@ -33,4 +29,11 @@ a:active
 body
 {
     background-color: #DEFF9C;
+}
+p
+{
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1em;
+    float:left;
+    margin: 10px;
 }
