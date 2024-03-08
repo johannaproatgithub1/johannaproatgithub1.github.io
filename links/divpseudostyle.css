@@ -17,3 +17,7 @@ div:focus
     background-color: blue;
     color: white;
 }
+body
+{
+    background-color: darkgreen;
+}
