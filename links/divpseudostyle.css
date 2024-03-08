@@ -2,12 +2,12 @@ p
 {
     border: 2px solid red;
     border-radius: 50px 20px;
-    color: white;
 }
 div
 {
     outline: none;
     text-decoration: none;
+    color: white;
 }
 div:hover
 {
