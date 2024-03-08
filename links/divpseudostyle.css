@@ -1,22 +1,25 @@
-p
-{
-    border: 2px solid white;
-    border-radius: 50px 20px;
-}
 div
 {
-    outline: none;
-    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 30px;
     color: white;
+    text-align: center;
+    margin: 2em;
+    width: 4em;
+    height: 4em;
+    padding: 2em;
+    padding: top;
 }
 div:hover
 {
     color: blue;
+    border: 2px solid lightblue;
 }
 div:focus
 {
     border-bottom: 1px solid darkblue;
     background-color: blue;
+    border-radius: 30 px;
     color: white;
 }
 body
