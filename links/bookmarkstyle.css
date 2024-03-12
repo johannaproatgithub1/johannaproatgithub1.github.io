@@ -6,3 +6,8 @@ div
 {
     display: block;
 }
+span
+{
+    font-weight: normal;
+    font-family: "Courier New", Courier, monospace;
+}
