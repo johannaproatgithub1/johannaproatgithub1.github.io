@@ -21,14 +21,14 @@ body
     background-color: green;
 }
 div.red{
-    border-left: 4px ridge red;
+    border-left: 8px ridge red;
 }
 div.yellow{
-    border-left: 4px ridge yellow;
+    border-left: 8px ridge yellow;
 }
 div.blue{
-    border-left: 4px ridge blue;
+    border-left: 8px ridge blue;
 }
 div.green{
-    border-left: 4px ridge green;
+    border-left: 8px ridge green;
 }
