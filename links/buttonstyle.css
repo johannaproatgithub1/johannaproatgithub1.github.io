@@ -10,6 +10,7 @@ div
     padding: 2em;
     padding-top: top;
     display: block;
+    background-color: lightgrey;
 }
 div:hover
 {
