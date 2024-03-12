@@ -1,4 +1,4 @@
-a
+div
 {
     font-family: "Courier new", Courier, monospace;
     border-radius: 30px;
@@ -9,6 +9,7 @@ a
     height: 2em;
     padding: 2em;
     padding-top: top;
+    display: block;
 }
 div:hover
 {
