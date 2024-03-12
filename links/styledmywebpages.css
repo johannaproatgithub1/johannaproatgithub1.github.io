@@ -3,6 +3,28 @@ a
     color: coral;
     text-align: center;
     width: 8em;
+    height: auto;
     padding: 0.5em;
-    
+    margin: 1em;
+    float: left;
+    border: 2px solid coral;
+    border-radius: 8px;
+}
+a:hover
+{
+    background-color: black;
+}
+div
+{
+    float: left;
+    margin: 1em;
+    height: 40em;
+    width: 8em;
+    padding: 0.5em;
+    background-color: yellow;
+    box-shadow: 2px 2px brown;
+}
+body
+{
+    background-color: yellow;
 }
