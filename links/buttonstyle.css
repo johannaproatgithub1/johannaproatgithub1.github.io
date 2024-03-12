@@ -20,15 +20,15 @@ body
 {
     background-color: green;
 }
-.red{
+div.red{
     border-left: 4px ridge red;
 }
-.yellow{
+div.yellow{
     border-left: 4px ridge yellow;
 }
-.blue{
+div.blue{
     border-left: 4px ridge blue;
 }
-.green{
+div.green{
     border-left: 4px ridge green;
 }
