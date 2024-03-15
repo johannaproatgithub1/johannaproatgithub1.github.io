@@ -5,14 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>my pics</title>
     <style>
-        figure
-        {
-            border: 3px solid red;
-        }
         div
         {
             box-shadow: 2px 2px 2px 2px black;
             float: left;
+        }
+        first
+        {
+            border: 3px red;
+        }
+        second
+        {
+            border: blue;
+        }
+        third
+        {
+            border: green;
         }
         img
         {
@@ -26,19 +34,11 @@
 </head>
 <body>
     <h1>My Pics</h1>
-<div>
-    <figure>
-        <img src="/images/Pics/mitchevens_180.png">
-        <figurecaption>Mitch_Evens</figurecaption>
-    </figure>
-    <figure>
-        <img src="/images/Pics/NicoMuller_180.jpg"> 
-        <figurecaption>Nico_Muller</figurecaption>
-    </figure>
-    <figure>
-        <img src="/images/Pics/OliverRowland_180.png">
-        <figurecaption>Oliver_Rowland</figurecaption>
-    </figure>
-</div>
+    <div>
+   
+        <img class="first" src="/images/Pics/mitchevens_180.png"> 
+        <img class="second" src="/images/Pics/NicoMuller_180.jpg">
+        <img class="third" src="/images/Pics/OliverRowland_180.png">
+    </div>
 </body>
 </html>
