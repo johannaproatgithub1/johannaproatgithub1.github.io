@@ -25,3 +25,7 @@ td, th
     border: 1px solid darkgreen;
     padding: 1em;
 }
+table
+{
+    box-shadow: 2px 2px 2px 2px solid black;
+}
