@@ -20,11 +20,8 @@ body
 {
     background-color: green;
 }
-td
+td, th
 {
     border: 1px solid darkgreen;
-}
-th
-{
-    border: 1px solid darkgreen;
+    padding: 1em;
 }
