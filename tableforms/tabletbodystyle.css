@@ -20,7 +20,6 @@ table
 body
 {
     background-color: rgb(136, 216, 125);
-    box-shadow: 2px 2px 2px 2px black;
 }
 td, th
 {
@@ -28,4 +27,8 @@ td, th
     padding: 1em;
     width: 4em;
     height: 2em;
+}
+table
+{
+    box-shadow: 2px 2px 2px 2px black;
 }
