@@ -1,6 +1,6 @@
 .roman
 {
-    list-style-type: lower-roman;
+    list-style-type: upper-roman
     border: 1px solid blue;
 }
 body
