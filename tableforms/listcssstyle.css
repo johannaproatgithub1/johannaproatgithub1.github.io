@@ -13,3 +13,7 @@ dl
     color: rgb(192, 70, 192);
     border: 1px solid blue;
 }
+.none
+{
+    list-style-type: none;
+}
