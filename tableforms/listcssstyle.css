@@ -7,3 +7,9 @@ body
 {
     background-color: rgb(136, 216, 125);
 }
+dl
+{
+    background-color: white;
+    color: rgb(192, 70, 192);
+    border: 1px solid blue;
+}
