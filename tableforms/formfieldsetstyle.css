@@ -6,7 +6,8 @@ label
 {
     color: rgb(69, 69, 228);
 }
-form
+legend
 {
-    padding: 20px;
+    backrgound-color: pink;
+    color: purple;
 }
