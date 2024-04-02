@@ -8,6 +8,14 @@ label
 }
 legend
 {
-    backrgound-color: pink;
+    background-color: pink;
     color: purple;
+}
+p
+{
+    margin: 2em;
+}
+fieldset
+{
+    width: 23em;
 }
